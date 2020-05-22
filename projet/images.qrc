@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/icons8_american_football_player_96px.png</file>
+        <file>icons/icons8_coach_240px.png</file>
+        <file>icons/icons8_home_48px.png</file>
+        <file>icons/icons8_add_user_male_200px.png</file>
+        <file>icons/icons8_update_user_160px_1.png</file>
+        <file>icons/icons8_back_to_200px.png</file>
+        <file>icons/icons8_checkmark_96px.png</file>
+    </qresource>
+</RCC>
