@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/Notification.jpg</file>
+        <file>img/icons8_add_new_96px.png</file>
+        <file>img/icons8_delete_bin_96px_1.png</file>
+        <file>img/icons8_down_left_96px.png</file>
+        <file>img/icons8_search_more_24px_1.png</file>
+        <file>img/icons8_search_more_96px.png</file>
+        <file>img/icons8_synchronize_24px_1.png</file>
+        <file>img/icons8_update_24px.png</file>
+        <file>img/icons8_average_2_80px.png</file>
+        <file>img/icons8_event_240px.png</file>
+        <file>img/icons8_magazine_64px.png</file>
+        <file>img/icons8_membership_card_64px.png</file>
+        <file>img/icons8_approval_96px.png</file>
+        <file>img/icons8_price_240px.png</file>
+        <file>img/icons8_time_80px.png</file>
+        <file>img/icons8_numbers_96px.png</file>
+        <file>img/icons8_purchase_order_48px.png</file>
+        <file>img/icons8_event_80px.png</file>
+    </qresource>
+</RCC>
