@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Stat</class>
+ <widget class="QWidget" name="Stat">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>514</width>
+    <height>459</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>170</x>
+     <y>400</y>
+     <width>171</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="layoutDirection">
+    <enum>Qt::LeftToRight</enum>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">	border-width: 1px; border-radius: 4px;
+	border-color: rgb(58, 58, 58);
+	border-style: inset;
+	padding: 0 8px;
+
+
+	selection-color: rgb(60, 63, 65);</string>
+   </property>
+   <property name="text">
+    <string>Retour au menu</string>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>:/logo/back.png</normaloff>:/logo/back.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>40</width>
+     <height>40</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QWidget" name="layoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>491</width>
+     <height>381</height>
+    </rect>
+   </property>
+   <layout class="QGridLayout" name="stat"/>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
